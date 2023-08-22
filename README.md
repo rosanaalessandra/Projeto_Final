@@ -8,12 +8,19 @@ Período: Semana 12
 
 Professor: Franciane Rodrigues e Douglas Ribeiro
 
-Analistas: # Aska Pereira
-           # Anderson Melo
-           # Diego Aguiar
-           # Jessica Staudt
-           # Rosana Santos
-           # Pedro Barrionovo
+## Analistas  
+
+**Aska Pereira**
+
+**Anderson Melo**
+           
+**Diego Aguiar**
+           
+**Jessica Staudt**
+            
+**Rosana Santos**
+           
+**Pedro Barrionovo**
 
 
 
