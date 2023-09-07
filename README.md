@@ -1,26 +1,11 @@
 # Projeto_Final
 
-Escola: SoulCode Academy
 
-Curso: Bootcamp Analista de Dados - Martech - AD2
-
-Período: Semana 12
-
-Professor: Franciane Rodrigues e Douglas Ribeiro
-
-## Analistas  
-
-**Aska Pereira**
-
-**Anderson Melo**
-           
-**Diego Aguiar**
-           
-**Jessica Staudt**
-            
+## Analista
+      
 **Rosana Santos**
            
-**Pedro Barrionovo**
+
 
 
 
